@@ -1,0 +1,7 @@
+This project uses the IBM Telco Customer Churn dataset distributed in:
+
+    https://github.com/IBM/telco-customer-churn-on-icp4d
+
+That repository is licensed under the Apache License 2.0. The dataset is
+downloaded at runtime and is not redistributed in this repository. See
+README.md for citation details.
